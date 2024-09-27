@@ -1,0 +1,16 @@
+Data:1
+numOfIntervals = 1
+standardTime: 0.0 generations: 0.00 N: 10,144 changeTypes: 0
+maxLogL = -153.97823167015702
+
+numOfIntervals = 2
+standardTime: 0.0 generations: 0.00 N: 68,452 changeTypes: 2
+standardTime: 0.0018700230593434275 generations: 84.61 N: 10,066 changeTypes: 0
+maxLogL = -152.33298768907252
+
+******** Best: ********
+numOfIntervals = 1
+standardTime: 0.0 generations: 0.00 N: 10,144 changeTypes: 0
+maxLogL = -153.97823167015702
+
+computing time = 12.94 seconds

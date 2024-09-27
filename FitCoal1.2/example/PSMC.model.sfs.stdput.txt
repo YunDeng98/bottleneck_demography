@@ -1,0 +1,31 @@
+Data:1
+numOfIntervals = 1
+standardTime: 0.0 generations: 0.00 N: 16,808 changeTypes: 0
+maxLogL = -30827.78897527896
+
+numOfIntervals = 2
+standardTime: 0.0 generations: 0.00 N: 71,692 changeTypes: 1
+standardTime: 0.009938299839572538 generations: 1424.99 N: 10,204 changeTypes: 0
+maxLogL = -7787.432140958249
+
+numOfIntervals = 3
+standardTime: 0.0 generations: 0.00 N: 58,581 changeTypes: 1
+standardTime: 0.019524113270403865 generations: 2287.47 N: 2,664 changeTypes: 1
+standardTime: 1.0410892212057263 generations: 7729.66 N: 27,390 changeTypes: 0
+maxLogL = -951.8352433113573
+
+numOfIntervals = 4
+standardTime: 0.0 generations: 0.00 N: 58,556 changeTypes: 1
+standardTime: 0.019558060191425603 generations: 2290.50 N: 2,627 changeTypes: 1
+standardTime: 0.358477730241348 generations: 4071.38 N: 3,098 changeTypes: 1
+standardTime: 1.086805528060618 generations: 8583.80 N: 28,092 changeTypes: 0
+maxLogL = -951.4617716016085
+
+******** Best: ********
+numOfIntervals = 3
+standardTime: 0.0 generations: 0.00 N: 58,581 changeTypes: 1
+standardTime: 0.019524113270403865 generations: 2287.47 N: 2,664 changeTypes: 1
+standardTime: 1.0410892212057263 generations: 7729.66 N: 27,390 changeTypes: 0
+maxLogL = -951.8352433113573
+
+computing time = 4.83 seconds
