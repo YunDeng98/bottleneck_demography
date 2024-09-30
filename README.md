@@ -27,3 +27,5 @@ We then use `msmc2` and `Relate` to infer demography with the simulated haplotyp
 python3.12 scripts/relate_synthetic_ts.py
 python3.12 scripts/run_msmc2.py results/synthetic_ts.vcf results/synthetic_ts results/msmc2_synthetic_input results/msmc2_synthetic_output
 ```
+
+Note that `python3.8` and `python3.12` are the alias I used to make the python version explicit. You probably just have to type `python`, but if the version is incompatible with certain packages, these are the versions to use to make sure of coding running. 
