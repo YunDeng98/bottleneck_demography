@@ -18,7 +18,7 @@ relate_main_cmd = f"../relate_v1.2.1_x86_64_static/bin/Relate --mode All -m {mut
 
 subprocess.run(relate_main_cmd, shell=True)
 
-relate_estimate_popsize = f"../relate_v1.2.1_x86_64_static/scripts/EstimatePopulationSize/EstimatePopulationSize.sh -i relate_synthetic_ts -m {mutation_rate} --poplabels all.poplabels --seed 1 -o relate_synthetic_ts_popsize"
+relate_estimate_popsize = f"../relate_v1.2.1_x86_64_static/scripts/EstimatePopulationSize/EstimatePopulationSize.sh -i relate_synthetic_ts -m {mutation_rate} --poplabels ../all.poplabels --seed 1 -o relate_synthetic_ts_popsize"
 
 subprocess.run(relate_estimate_popsize, shell=True)
 
